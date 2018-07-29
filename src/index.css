@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  /*background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); /* w3c */*/
+  /*background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+  /*background: linear-gradient(89deg, orange, orange 60%, cyan);*/
+  /*background: linear-gradient(#e66465, #9198e5);*/
+  background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #00FFFF 0%, rgba(0, 0, 255, 0) 50%, #0000FF 95%);
+}
+
+button {
+  cursor: pointer;
+}
